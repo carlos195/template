@@ -1,0 +1,7 @@
+{
+	"driver":"mysql",
+	"dbname":"",
+	"dbhost":"",
+	"dbuser":"",
+	"dbpass":""
+}
